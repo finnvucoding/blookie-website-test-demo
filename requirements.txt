@@ -1,0 +1,28 @@
+# ==============================================
+# BLOG WEBSITE TEST AUTOMATION - REQUIREMENTS
+# ==============================================
+
+# Core Testing Framework
+pytest==8.3.4
+pytest-xdist==3.6.1  # Parallel execution
+pytest-html==4.1.1  # HTML reports
+pytest-timeout==2.3.1  # Test timeouts
+
+# Playwright for UI Testing
+playwright==1.49.1
+
+# API Testing
+requests==2.32.3
+requests-toolbelt==1.0.0  # Multipart uploads
+
+# Data Handling & Validation
+pydantic==2.10.6  # Data validation with Type Hints
+faker>=40.0.0  # Test data generation
+python-dotenv==1.0.1  # .env file support
+
+# Reporting (Optional but Recommended)
+allure-pytest==2.13.5  # Allure reporting
+
+# Utilities
+dataclasses-json==0.6.7  # Dataclass JSON serialization
+typing-extensions==4.12.2  # Backport typing features
