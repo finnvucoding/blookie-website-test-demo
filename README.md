@@ -124,4 +124,4 @@ pytest -n auto
 - Allure (optional reports)
 
 ## Video Blookie Website
-[!Video Demo](https://img.youtube.com/vi/GH6hzpp0xYk/maxresdefault.jpg)](https://www.youtube.com/watch?v=GH6hzpp0xYk)
+[![Video Demo](https://img.youtube.com/vi/GH6hzpp0xYk/maxresdefault.jpg)](https://www.youtube.com/watch?v=GH6hzpp0xYk)
